@@ -1,0 +1,12 @@
+# CSCC01 Lab 3
+
+# dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# database
+data/
+
+# Remove .DS_Store cause it's a macOS issue that I found when I pushed it before
+.DS_Store
